@@ -1,7 +1,7 @@
 ### 1. Create Database and Table
 
 
-```python
+```sql
 CREATE DATABASE dbname;
 ```
 
